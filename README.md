@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-Coding ...
-
-- 😄 Pronouns: ...
-- 🔭 I’m currently working on ...
-
+I'm a boy made in U+1F1F3 
 
 
 <!--
