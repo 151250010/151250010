@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-I'm a boy made in U+1F1F3 
+I'm a boy made in 🇨🇳. 
 
+
+Hi. I’m linux-china 🤗 👱 🧑‍💻 👓 💻 👨‍👩‍👧‍👦 ☕ 🍵 🍺 📚 🏝, and made in 🇨🇳.
 
 <!--
 **151250010/151250010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
