@@ -1,3 +1,5 @@
 ### Hi there 👋
 
-Hi. I’m ZhongYe, from China. 🇨🇳  🇨🇳  🇨🇳 !
+Hi. I’m ZhongYe, from China. 🇨🇳  🇨🇳  🇨🇳 ! 
+
+Always be curious！！！
